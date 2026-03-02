@@ -1,16 +1,12 @@
-[LICENSE__BADGE]: https://img.shields.io/github/license/Fernanda-Kipper/Readme-Templates?style=for-the-badge
 [JAVA_BADGE]:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [SPRING_BADGE]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [MONGO_BADGE]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[PRS_BADGE]:https://img.shields.io/badge/PRs-welcome-green?style=for-the-badge
 
 <h1 align="center" style="font-weight: bold;">Workshop MongoDB 📝</h1>
 
-![license][LICENSE__BADGE]
 ![java][JAVA_BADGE]
 ![spring][SPRING_BADGE]
 ![mongo][MONGO_BADGE]
-![prs][PRS_BADGE]
 
 <details open="open">
 <summary>Índice</summary>
@@ -42,7 +38,7 @@
 <h3 id="cloning">Clonando</h3>
 
 ```bash
-git clone https://github.com/seu-usuario/workshopmongo.git
+git clone https://github.com/BrunoVAbreu/workshopmongo.git
 ```
 
 <h3 id="env">Variáveis de Ambiente</h3>
